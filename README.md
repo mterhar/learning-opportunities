@@ -137,14 +137,21 @@ This skill was developed based on learning science and informed by multiple qual
 
 I'd love to know if you enjoy this and what you learn! Sharing open science resources helps researchers like me create more things to help software teams. I always appreciate a shout-out or a share in public, which helps more people learn about the psychology of software teams. Get updates and access to more of the psychology of software teams at my newsletter: [Fight for the Human](https://www.fightforthehuman.com/)
 
-## Author
+## Authors
 
+Learning-Opportunities: 
 **Dr. Cat Hicks**  
 I'm a psychological scientist studying software teams and technology work, an author, a public speaker, a research architect, and an empirical interventionist who builds radical research teams that put answers behind questions everyone is asking but few people are gathering real evidence about.
 
 - Website: [drcathicks.com](https://drcathicks.com)
 - Software Team & Eng Leadership Consulting: [catharsisinsight.com](https://www.catharsisinsight.com/)
 - Upcoming Book: *The Psychology of Software Teams* (2026)
+
+Orient: 
+**Dr. Michael Mullarkey**
+I'm a machine learning engineer who used to be a therapist + social science researcher. I'm thinking a lot about how to leverage agentic AI to help people learn skills, see [blendtutor](https://github.com/mcmullarkey/blendtutor) for another example.
+
+- [Website](https://mcmullarkey.github.io/)
 
 ## Sources
 
