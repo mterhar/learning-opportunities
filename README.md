@@ -140,7 +140,9 @@ I'd love to know if you enjoy this and what you learn! Sharing open science reso
 ## Authors
 
 Learning-Opportunities: 
-**Dr. Cat Hicks**  
+
+**Dr. Cat Hicks** 
+
 I'm a psychological scientist studying software teams and technology work, an author, a public speaker, a research architect, and an empirical interventionist who builds radical research teams that put answers behind questions everyone is asking but few people are gathering real evidence about.
 
 - Website: [drcathicks.com](https://drcathicks.com)
@@ -148,7 +150,9 @@ I'm a psychological scientist studying software teams and technology work, an au
 - Upcoming Book: *The Psychology of Software Teams* (2026)
 
 Orient: 
+
 **Dr. Michael Mullarkey**
+
 I'm a machine learning engineer who used to be a therapist + social science researcher. I'm thinking a lot about how to leverage agentic AI to help people learn skills, see [blendtutor](https://github.com/mcmullarkey/blendtutor) for another example.
 
 - [Website](https://mcmullarkey.github.io/)
